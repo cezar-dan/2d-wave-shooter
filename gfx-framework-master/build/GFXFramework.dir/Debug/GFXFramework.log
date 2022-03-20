@@ -1,0 +1,59 @@
+﻿  Building Custom Rule C:/Users/Cezar/Desktop/Facultate/EGC/gfx-framework-master/CMakeLists.txt
+  EnemyManager.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ICollidable.cpp
+  Bullet.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  BulletBar.cpp
+  BulletStream.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Enemy.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  EnemyFly.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Entity.cpp
+  HealthBar.cpp
+  MapEdges.cpp
+  Obstacles.cpp
+  Player.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Circle.cpp
+  Primitive.cpp
+  Rectangle.cpp
+  Shape.cpp
+  Tema1.cpp
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(40,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\src\lab_m1\Tema1\Tema1.cpp(348,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(349,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  camera_input.cpp
+  scene_input.cpp
+  simple_scene.cpp
+  Generating Code...
+  Compiling...
+  text_renderer.cpp
+  engine.cpp
+  frame_buffer.cpp
+  gpu_buffers.cpp
+  mesh.cpp
+  shader.cpp
+  texture2D.cpp
+  texture_manager.cpp
+  input_controller.cpp
+  window_callbacks.cpp
+  window_object.cpp
+  world.cpp
+  main.cpp
+  gl_utils.cpp
+  text_utils.cpp
+  Generating Code...
+     Creating library C:/Users/Cezar/Desktop/Facultate/EGC/gfx-framework-master/build/Debug/GFXFramework.lib and object C:/Users/Cezar/Desktop/Facultate/EGC/gfx-framework-master/build/Debug/GFXFramework.exp
+  GFXFramework.vcxproj -> C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\build\bin\Debug\GFXFramework.exe
+  Junction created for C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\build\bin\Debug\src <<===>> C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src
+  Junction created for C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\build\bin\Debug\assets <<===>> C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\assets
