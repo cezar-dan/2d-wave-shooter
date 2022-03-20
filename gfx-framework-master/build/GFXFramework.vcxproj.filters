@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\EnemyManager.cpp">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\ICollidable.cpp">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Tema1.cpp">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Shape.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Primitives\Circle.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Primitives\Primitive.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Primitives\Rectangle.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\Bullet.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\BulletBar.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\BulletStream.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\Enemy.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\EnemyFly.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\Entity.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\HealthBar.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\MapEdges.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\Obstacles.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\Tema1\Shapes\Entities\Player.cpp">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\EnemyManager.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\ICollidable.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\ITimeDependant.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Tema1.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\transform2D.h">
+      <Filter>src\lab_m1\Tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Shape.h">
+      <Filter>src\lab_m1\Tema1\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Primitives\Circle.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Primitives\Primitive.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Primitives\Rectangle.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\Bullet.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\BulletBar.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\BulletStream.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\Enemy.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\EnemyFly.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\Entity.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\HealthBar.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\MapEdges.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\Obstacles.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\Tema1\Shapes\Entities\Player.h">
+      <Filter>src\lab_m1\Tema1\Shapes\Entities</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Cezar\Desktop\Facultate\EGC\gfx-framework-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{14031263-0ACB-3EC9-A476-EEBCFD25F5B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{50120641-207C-365C-8983-E4E8021AF71E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{42A5FA5A-AD7F-3189-85A7-E5171096DEC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{27177542-7B7A-3FC3-9E84-699D5E32BBD0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{3DDC7A28-4FEC-3C7D-90A2-9E5F922E0B60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{F131B465-C0A4-3917-AC60-2E916DB66CC7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{7B5EDE3E-1BC4-3279-88A7-F63305E5580F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{517DE4CB-FF73-30C8-AD54-D9B86AD12FDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema1">
+      <UniqueIdentifier>{d26085c9-9d0e-4ffb-90db-694e313b36ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema1\Shapes">
+      <UniqueIdentifier>{1bf00667-5bce-4b7e-b4a7-6948e233b984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema1\Shapes\Primitives">
+      <UniqueIdentifier>{745240b7-7822-4675-878c-95f8cc1511f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\Tema1\Shapes\Entities">
+      <UniqueIdentifier>{2eed4a68-cfe6-444b-a838-924a34dc29ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

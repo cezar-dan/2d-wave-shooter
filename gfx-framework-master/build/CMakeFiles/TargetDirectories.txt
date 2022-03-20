@@ -1,0 +1,3 @@
+C:/Users/Cezar/Desktop/Facultate/EGC/gfx-framework-master/build/CMakeFiles/GFXFramework.dir
+C:/Users/Cezar/Desktop/Facultate/EGC/gfx-framework-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cezar/Desktop/Facultate/EGC/gfx-framework-master/build/CMakeFiles/ZERO_CHECK.dir
